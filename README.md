@@ -1,2 +1,2 @@
 # assembly
-My assembly programs.
+My assembly programs written on flat assembler (FASM X86-64).
